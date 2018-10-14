@@ -2,4 +2,4 @@
 
 echo "Hello World!";
 echo PHP_EOL;
-echo "Welcome to ZendCon 2017 - Its Party Time!";
+echo "Welcome to ZendCon 2018 - Its Party Time!";
